@@ -7,7 +7,7 @@ package Latihan4;
 
 /**
  *
- * @author Mutiara
+ * @author DITO
  */
 public class Rectangle extends Shape {
     private int length;

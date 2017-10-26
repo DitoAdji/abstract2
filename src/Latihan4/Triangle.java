@@ -7,7 +7,7 @@ package Latihan4;
 
 /**
  *
- * @author Mutiara
+ * @author DITO
  */
 public class Triangle extends Shape {
     private final int base;

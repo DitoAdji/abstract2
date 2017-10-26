@@ -7,7 +7,7 @@ package Latihan2;
 
 /**
  *
- * @author Mutiara
+ * @author DITO
  */
 abstract class Line implements Relation{
     private final double x1;

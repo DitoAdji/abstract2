@@ -7,7 +7,7 @@ package Latihan2;
 
 /**
  *
- * @author Mutiara
+ * @author DITO
  */
 public class TestLine {
     public static void main(String[] args){

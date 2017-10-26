@@ -7,7 +7,7 @@ package Latihan3;
 
 /**
  *
- * @author Mutiara
+ * @author DITO
  */
 public class Staf extends Pegawai{
     private static final int gajiStaf=50000;

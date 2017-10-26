@@ -7,7 +7,7 @@ package Latihan4;
 
 /**
  *
- * @author Mutiara
+ * @author DITO
  */
 public class Shape {
     private final String color;

@@ -9,7 +9,7 @@ import java.util.Locale;
 
 /**
  *
- * @author Mutiara
+ * @author DITO
  */
 public class TestShape {
     public static void main(String[] args){
